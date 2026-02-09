@@ -1,0 +1,14 @@
+1	忙		形		  máng		bận
+2	吗		助		  ma		trợ từ nghi vấn
+3	很		副		  hěn		rất
+4	汉语		名		  Hànyǔ		tiếng Hán, tiếng Hoa
+5	难		形		  nán		khó
+6	太		副		  tài		quá, lắm
+7	爸爸		名		  bàba		ba, bố
+8	妈妈		名		  māma		mẹ, má
+9	他		代		  tā		anh ấy, ông ấy, nó
+10	她		代		  tā		chị ấy, cô ấy, bà ấy
+11	男		形		  nán		nam, con trai
+12	哥哥		名		  gēge		anh
+13	弟弟		名		  dìdi		em trai
+14	妹妹		名		  mèimei	em gái
